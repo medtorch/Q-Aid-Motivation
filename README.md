@@ -10,6 +10,6 @@ Q&AId tries to solve this problem by helping the hospitals and the patients as w
 
 Q&AId is conversation agent that relies on a few machine learning models to filter, label and answer medical questions, all based on a provided image as described below. The transcript is then forwarded to the closest hospitals and the user will be contacted by a nearby hospital to make an appointment.
 
-<insert app diagram here>
+![diagram flow](https://raw.githubusercontent.com/medtorch/Q-Aid-Motivation/master/misc/flow.png)
 
 Each hospital nearby has their models trained on their data that finetunes a visual question answering model (VQA) and other models, based on what data they have (an example being the brain anomaly segmentation). We are aggregating all the tasks that these hospitals can do into a single app chat, the user getting aggregated results and features from all the nearby hospitals. When the chat ends, the transcript is forwarded to each hospital, a doctor being in charge of the final decision.
