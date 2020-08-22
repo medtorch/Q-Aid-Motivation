@@ -3,8 +3,8 @@
 The year 2020 came with changes all around the globe, imposing new standards when it comes to protecting everybody around you, not only your beloved ones. In this time of need, one of the most harmed and overloaded institutions is the hospital, which is the first line of fighting the pandemic, but also a mandatory place for some of us. People that have chronic, autoimmune or degenerative diseases or just a simple headache have to stay in touch with their doctors to check themselves and to keep their mental health in a good shape.
 
 Q&AId tries to solve this problem by helping the hospitals and the patients as well by:
-providing the user answers to questions on clinic data.
-providing the hospital with a transcript of what the patient needs, reducing the waiting time and unloading the hospital triage.
+* providing the user answers to questions on clinic data.
+* providing the hospital with a transcript of what the patient needs, reducing the waiting time and unloading the hospital triage.
 
 <insert here cute cool example from the app>
 
