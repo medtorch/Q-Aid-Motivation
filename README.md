@@ -125,6 +125,8 @@ This field has the potential of having a great impact on AI for Social Good, and
 
 ### Horia
 
+As a student, solving clearly defined problems using known methods is the norm. As such, having the opportunity to identify a meaningful problem and explore novelty solutions offers great challenges and satisfactions. I am tremendously proud to be part of an effort that democratizes access to quality diagnoses while preserving the essence of the doctor-patient relationship. AI will shape the future of medical technology and nudging this transformation is a true personal accomplishment.
+
 ## What we learned
 
 As a team, we've learned how to express our ideas the right way and how to give constructive feedback. We've learned that we are here for the journey and we should make the most out of it, even if there are different opinions along the road.
