@@ -115,9 +115,7 @@ I am really happy that we continuously found new sources of motivation to create
 
 ### Tudor
 
-* first technical project made with my older brother <3.
-* sharpened my computer vision and communication skills.
-* had fun
+This hackathon has been a source of valuable lessons and great achievements, the ones that I am most proud of are: made progress towards solving a real-world hard problem, managed to sharpen my communication and computer vision skills, made my first technical project with my older brother. <3
 
 ### Andrei
 
