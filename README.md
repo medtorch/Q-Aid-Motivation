@@ -13,3 +13,8 @@ Q&AId is conversation agent that relies on a few machine learning models to filt
 ![diagram flow](https://raw.githubusercontent.com/medtorch/Q-Aid-Motivation/master/misc/flow.png)
 
 Each hospital nearby has their models trained on their data that finetunes a visual question answering model (VQA) and other models, based on what data they have (an example being the brain anomaly segmentation). We are aggregating all the tasks that these hospitals can do into a single app chat, the user getting aggregated results and features from all the nearby hospitals. When the chat ends, the transcript is forwarded to each hospital, a doctor being in charge of the final decision.
+
+Q&Aid is simplifying the hospital logic backend by standardizing them to a Health Intel Provider (HIP). A HIP is a collection of models trained on the local data that receives a text and visual input, afterwards filtering, labelling and feeding the data to the right models, generating at the end output for the aggregator. Any hospital is identifiable by a HIP with custom models and labelling based on the knowledge from the hospital.
+
+One of our next steps is to apply [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) between HIPs using [PySyft](https://github.com/OpenMined/PySyft) from [OpenMined](https://www.openmined.org/), a library that wraps PyTorch and other data science tools for private model sharing and training. Two of our team members are working as active contributors in OpenMined to bring this feature to the healthcare scene.  
+
