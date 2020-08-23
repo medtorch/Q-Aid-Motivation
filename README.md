@@ -10,7 +10,9 @@ Q&AId tries to solve this problem by helping the hospitals and the patients as w
 * providing the user answers to questions on clinic data.
 * providing the hospital with a transcript of what the patient needs, reducing the waiting time and unloading the hospital triage.
 
-![demo](https://github.com/medtorch/Q-Aid-Motivation/raw/master/misc/demo.gif)
+<p align="center">
+  <img align="center" src="https://github.com/medtorch/Q-Aid-Motivation/raw/master/misc/demo.gif">
+</p>
 
 Q&AId is conversation agent that relies on a few machine learning models to filter, label and answer medical questions, all based on a provided image as described below. The transcript is then forwarded to the closest hospitals and the user will be contacted by a nearby hospital to make an appointment.
 
