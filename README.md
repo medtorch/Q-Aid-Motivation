@@ -47,6 +47,7 @@ This stack builds up to:
 * An ECR Container Registry to push our Docker image to.
 * An ECS Fargate Service to run our Q&Aid backend.
 
+Inspired by this [tutorial](https://aws-blog.de/2020/03/building-a-fargate-based-container-app-with-cognito-authentication.html).
 
 ### Q-Aid-Models
 
