@@ -2,7 +2,7 @@
 
 The year 2020 brought changes all around the globe, imposing new standards when it comes to protecting everybody around you. In this time of need, one of the most harmed and overloaded institutions is the hospital, which is the first line of defense against the pandemic and a desperately needed place for some of us. People that have chronic, autoimmune or degenerative diseases must stay in touch with their doctors to keep their physical health in check.
 
-As a multiple-sclerosis patient himself, our teammate Bogdan is bound to make regular visits to the hospital. The current global crisis complicated everybody's lives and his is no exception. He has to travel to other cities for periodic checks or to get treatment. It is frustrating to sometimes get back home with more questions than answers. However, Bogdan is a software engineer and he believes that AI could solve some of the issues and help many others like him.
+As a multiple-sclerosis patient himself, our teammate Bogdan is bound to make regular visits to the hospital. The current global crisis complicated everybody's lives and his is no exception. He has to travel to other cities for periodic checks or to get treatment. It is frustrating to sometimes get back home with more questions than answers. However, Bogdan is a software engineer and he believes that AI could solve some of these issues.
 
 ## What it does
 
